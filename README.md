@@ -1,2 +1,2 @@
 # FisrtSV
-[First SV](https://mcmahno.github.io/FirstSV/)
+[First SV](https://mcmahno.github.io/FisrtSV/)
