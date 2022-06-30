@@ -1,2 +1,2 @@
 # FisrtSV
-[First SV](https://calm-horse-ab5125.netlify.app)
+[First SV](https://mcmahno.github.io/FirstSV/)
